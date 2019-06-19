@@ -1,2 +1,3 @@
 Este es un ejemplo de insertar un documento en el repositorio
 Este es un SEGUNDO ejemplo , ahora, modificamos un archivo ya existente
+este es un tercer ejemplo desde la consola
