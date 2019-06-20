@@ -1,5 +1,0 @@
-Esta es una prueba para insertar un documento
-
-desde la rama README-EDITS, para despues hacer un merge sin conflicto, a la rama master
-
-SIGO PROBANDO EDITAR UNA RAMA Y LUEGO UNIRLA A MASTER
